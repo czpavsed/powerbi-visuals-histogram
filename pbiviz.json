@@ -1,22 +1,22 @@
 {
-  "visual": {
-    "name": "Histogram 2.1.1",
-    "displayName": "Histogram 2.1.1",
-    "guid": "Histogram1445664487616",
-    "visualClassName": "Visual",
-    "version": "2.1.1",
-    "description": "A histogram chart plots data ranges into intervals. Useful for estimating density.",
-    "supportUrl": "https://community.powerbi.com",
-    "gitHubUrl": "https://github.com/Microsoft/PowerBI-visuals-histogram"
-  },
-  "author": {
-    "name": "Microsoft",
-    "email": "pbicvsupport@microsoft.com"
-  },
-  "assets": {
-    "icon": "assets/icon.png"
-  },
-  "externalJS": [],
-  "style": "style/visual.less",
-  "capabilities": "capabilities.json"
+    "visual": {
+        "name": "svgKpiTooltip",
+        "displayName": "SVG KPI Tooltip",
+        "guid": "svgKpiTooltip8C6E2CB9",
+        "visualClassName": "Visual",
+        "version": "1.0.0.20",
+        "description": "Zobrazení SVG KPI hodnot jako karet",
+        "supportUrl": "https://community.powerbi.com",
+        "gitHubUrl": "https://github.com/yourrepo/svg-kpi-tooltip"
+    },
+    "apiVersion": "5.3.0",
+    "author": {
+        "name": "Pavel Sedláček",
+        "email": "pavel@example.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json"
 }
